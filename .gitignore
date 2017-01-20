@@ -1,4 +1,4 @@
 to ignore
-/bin
-/build/
+bin/
+build/
 *.class
